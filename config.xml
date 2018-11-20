@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yandex>
+	<!-- Словарь -->
+	<dictionary>
+		<name>second</name>
+		<source>
+			<file>
+				<path>/opt/dictionaries/data.json</path>
+				<format>JSON</format>
+			</file>
+		</source>
+		<layout>
+			<flat/>
+		</layout>
+		<structure>
+			<id>id</id>
+			<attribute>
+				<name>second_name</name>
+				<type>string</type>
+			</attribute>
+		</structure>
+	</dictionary>
+</yandex>

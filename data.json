@@ -1,0 +1,19 @@
+{
+  "meta": [
+    {
+      "name": "id",
+      "type": "UInt364"
+    },
+    {
+      "name": "second_name",
+      "type": "String"
+    }
+  ],
+  "data": [
+    {
+      "id": "1",
+      "second_name": "B"
+    }
+  ],
+  "rows": 1
+}
